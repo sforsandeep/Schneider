@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Minesweeper/.vs
+/Minesweeper/Src/Minesweeper.Console/obj
+/Minesweeper/Src/Minesweeper.Core/obj
+/Minesweeper/Tests/Minesweeper.Tests/obj
+/Minesweeper/Src/Minesweeper.Console/bin/Debug/net7.0
+/Minesweeper/Src/Minesweeper.Core/bin/Debug/net7.0
+/Minesweeper/Tests/Minesweeper.Tests/bin/Debug/net7.0
